@@ -48,3 +48,7 @@ Do not edit copyright messages!
 
 ## Disclaimer
 `WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
+
+https://heroku.com/deploy?template=https://github.com/dinethsudarshana/QueenAmdi
+
+
